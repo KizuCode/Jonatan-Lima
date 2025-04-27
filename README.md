@@ -12,7 +12,7 @@ Este repositorio refleja mi aprendizaje y algunos proyectos realizados durante m
 Si deseas conocer más sobre mí, puedes contactarme a través de:
 - **Email:** ljonat927@gmail.com
 - **GitHub:** [KizuCode](https://github.com/KizuCode)
-- **LinkedIn:** [Tu perfil aquí](https://linkedin.com/in/tuperfil)
+- **LinkedIn:** [Jona Lima](www.linkedin.com/in/jona-lima-800123312)
 
 ---
 ¡Gracias por visitar mi repositorio!
