@@ -5,8 +5,8 @@ Hola soy Jonatan Lima, estudiante de la carrera Licenciatura en Ciencia de Datos
 
 Este repositorio refleja mi aprendizaje y algunos proyectos realizados durante mi formación académica. Mi objetivo es seguir creciendo como profesional y aportar mis conocimientos a proyectos que generen valor.
 
-## Proyectos
-- **[Nombre del proyecto 1]:**
+## Proyecto
+- **[Análisis de datos sobre vinos]:** En este trabajo lo que se busca es analizar el comportamiento de los datos sobre ciertas características de los vinos. El trabajo está escrito en Python
 
 ## Contacto
 Si deseas conocer más sobre mí, puedes contactarme a través de:
